@@ -82,7 +82,8 @@
 // }
 
 import Head from 'next/head'
-import Layout from '../src/components/Layout'
+import Layout from '../components/Layout'
+
 
 export default function Home({ props }) {
 
