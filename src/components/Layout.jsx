@@ -1,3 +1,4 @@
+import 'tailwindcss/tailwind.css'
 import NavBar from '../components/NavBar'
 
 export default function Layout({ page, children }) {
